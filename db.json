@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "labels":[
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "name":"Etiqueta old navy"
+    },
+    {
+      "id":2,
+      "name":"Etiquetas GAP"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
